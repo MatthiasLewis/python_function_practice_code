@@ -4,3 +4,10 @@
 <h2>newstopword</h2>
 <p>是取得2天內新聞熱搜關鍵字的API，可以使用<code>https://twweather-04a09dab020d.herokuapp.com/newstopword</code>，加上參數取得資料。</p>
 <p>例如：<code>?hl=zh-TW&tz=480&geo=TW&ns=15</code></p>
+<h2>1111work</h2>
+<p>可查找並取得人力銀行的工作內容，可以使用<code>https://twweather-04a09dab020d.herokuapp.com/getworkdata1111</code>加上參數取得資料。</p>
+<p>參數列包含：</p>
+<p><code>v1</code>:請輸入縣市(如:台北市)</p>
+<p><code>v</code>:請輸入區域(如:中山區)</p>
+<p><code>page</code>:請輸入起始頁數(最低為1，最多一次跑11頁)</p>
+<p><code>worktype</code>:請輸入工作(如：櫃檯人員)</p>
